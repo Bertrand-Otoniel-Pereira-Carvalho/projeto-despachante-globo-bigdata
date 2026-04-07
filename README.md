@@ -2,48 +2,48 @@
 
 
 
-\## 📌 Descrição
+## 📌 Descrição
 
 Este projeto tem como objetivo desenvolver uma solução baseada em Big Data para análise de dados operacionais de uma empresa do setor de despachante.
 
 
 
-\## 🚀 Tecnologias utilizadas
+## 🚀 Tecnologias utilizadas
 
-\- Python
+- Python
 
-\- PySpark
+- PySpark
 
-\- Google Colab
+- Google Colab
 
-\- Power BI
+- Power BI
 
 
 
-\## 📊 Dados
+## 📊 Dados
 
 Os dados utilizados são simulados, representando operações reais da empresa.
 
 
 
-\## ⚙️ Funcionalidades
+## ⚙️ Funcionalidades
 
-\- Processamento de dados em larga escala
+- Processamento de dados em larga escala
 
-\- Análise de faturamento
+- Análise de faturamento
 
-\- Identificação de serviços mais demandados
+- Identificação de serviços mais demandados
 
-\- Dashboard interativo
+- Dashboard interativo
 
 
 
-\## ☁️ Arquitetura
+## ☁️ Arquitetura
 
 Dados CSV → Google Drive → PySpark (Colab) → Dashboard
 
 
 
-\## 👨‍💻 Autor
+## 👨‍💻 Autor
 
 Bertrand Otoniel
